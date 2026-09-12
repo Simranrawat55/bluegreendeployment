@@ -10,6 +10,3 @@ def home():
     <p>Application is running successfully in the blue environment
     what's app summi.</p>
     """
-
-#if __name__ == "__main__":
-   # app.run(host="0.0.0.0", port=5000)
