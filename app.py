@@ -8,7 +8,7 @@ def home():
     <h1>Blue Environment</h1>
     <h2>Version 1.0<h2>
     <p>Application is running successfully in the blue environment
-    what's app simu.</p>
+    what's app summi.</p>
     """
 
 #if __name__ == "__main__":
